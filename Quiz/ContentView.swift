@@ -8,9 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    
-    
-    
+
     @State private var isAlertPresented = false
     @State private var isCorrect = false
     @State private var isSheetPresented = false
